@@ -1,0 +1,29 @@
+{
+  "name": "first-proyect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "noJands",
+  "license": "ISC",
+  "description": "Is another small project hope you `Liked😼😼`",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "jose": "^6.0.11",
+    "mongoose": "^8.15.1",
+    "moongose": "^1.0.0",
+    "morgan": "^1.10.0",
+    "multer": "^2.0.1",
+    "zod": "^3.25.56"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
