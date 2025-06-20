@@ -1,4 +1,4 @@
-# Solo Projects
+# Solo Projects (MERN)
 
 > A simple web application that allows users to easily share and showcase their personal projects by providing a name, description, and link. The app then displays each project in a neat card format.
 
